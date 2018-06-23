@@ -1,50 +1,75 @@
 [
     {
         "id": 1,
-        "image": "http://a.fod4.com/images/user_photos/1392079/e832c0efa0f8167109174f0e14a0c9a0_square_fullsize."
+        "image": "http://a.fod4.com/images/user_photos/1392079/e832c0efa0f8167109174f0e14a0c9a0_square_fullsize.",
+        "clicked": false,
+        "name": "Stone Cold"
     },
     {
         "id": 2,
-        "image": "http://a.fod4.com/images/user_photos/1392079/e832c0efa0f8167109174f0e14a0c9a0_square_fullsize."
+        "image": "http://rs1228.pbsrc.com/albums/ee460/ruben_origami/Wrestling/KYKY%20Background/M%20Images/Macho%20Man%20Randy%20Savage/MachoManRandySavage002KYKYBackground.jpg~c200",
+        "clicked": false,
+        "name": "Macho Man"
     },
     {
         "id": 3,
-        "image": "http://a.fod4.com/images/user_photos/1392079/e832c0efa0f8167109174f0e14a0c9a0_square_fullsize."
+        "image": "http://rs180.pbsrc.com/albums/x310/The_Ultimate_Wrestling_Gallery/Lex%20Luger/LexLuger028.jpg~c200",
+        "clicked": false,
+        "name": "Lex Luger"
     },
     {
         "id": 4,
-        "image": "http://a.fod4.com/images/user_photos/1392079/e832c0efa0f8167109174f0e14a0c9a0_square_fullsize."
+        "image": "http://rs6.pbsrc.com/albums/y250/bobinc/TEW%20Pics/StingWolfpac.jpg~c200",
+        "clicked": false,
+        "name": "Sting"
     },
     {
         "id": 5,
-        "image": "http://a.fod4.com/images/user_photos/1392079/e832c0efa0f8167109174f0e14a0c9a0_square_fullsize."
+        "image": "http://www.4thletter.net/wp-content/uploads//60listraven.jpg",
+        "clicked": false,
+        "name": "Raven"
     },
     {
         "id": 6,
-        "image": "http://a.fod4.com/images/user_photos/1392079/e832c0efa0f8167109174f0e14a0c9a0_square_fullsize."
+        "image": "https://3.bp.blogspot.com/-ZgU7esx37X4/WVVDwuiAYUI/AAAAAAAAEqw/Y4lgcUwCvbQmHxkU1g-S2EkzDJsKvzW2wCPcBGAYYCw/s200/Goldust2.jpg",
+        "clicked": false,
+        "name": "Gold Dust"
     },
     {
         "id": 7,
-        "image": "http://a.fod4.com/images/user_photos/1392079/e832c0efa0f8167109174f0e14a0c9a0_square_fullsize."
+        "image": "http://img.phone.baidu.com/public/uploads/store_2/7/2/d/72d30a1f120e9f941ef2db1236e9dcf9_200x200.png",
+        "clicked": false,
+        "name": "Under Taker"
     },
     {
         "id": 8,
-        "image": "http://a.fod4.com/images/user_photos/1392079/e832c0efa0f8167109174f0e14a0c9a0_square_fullsize."
+        "image": "http://rs74.pbsrc.com/albums/i271/kennyfarmer23/Hulk%20Hogan/hulkamania121.jpg~c200",
+        "clicked": false,
+        "name": "Hulk Hogan"
     },
     {
         "id": 9,
-        "image": "http://a.fod4.com/images/user_photos/1392079/e832c0efa0f8167109174f0e14a0c9a0_square_fullsize."
+        "image": "http://www.images99.com/i99/07/154642/Nikki%20Bella%20WWE%20Diva-200x200.jpg",
+        "clicked": false,
+        "name": "Nikki Bella"
     },
     {
         "id": 10,
-        "image": "http://a.fod4.com/images/user_photos/1392079/e832c0efa0f8167109174f0e14a0c9a0_square_fullsize."
+        "image": "http://i0.kym-cdn.com/entries/icons/medium/000/007/797/john-cena-missing-777x437.jpg",
+        "clicked": false,
+        "name": "John Cena"
     },
     {
         "id": 11,
-        "image": "http://a.fod4.com/images/user_photos/1392079/e832c0efa0f8167109174f0e14a0c9a0_square_fullsize."
+        "image": "http://kevingillshow.com/wp-content/uploads/S_Waltman_200pix.jpg",
+        "clicked": false,
+        "name": "X-Pac"
     },
     {
         "id": 12,
-        "image": "http://a.fod4.com/images/user_photos/1392079/e832c0efa0f8167109174f0e14a0c9a0_square_fullsize."
+        "image": "https://www.clickwrestle.com/sites/default/files/styles/200x200/public/cm-punk.png?itok=SOhU4BXe",
+        "clicked": false,
+        "name": "CM Punk"
     }
 ]
+

@@ -8,3 +8,10 @@ nav {
 nav a {
     color: white;
 }
+
+.navbar li {
+    display: inline-block;
+    text-align: center;
+    padding: 26px 0;
+    width: 33.3%;
+}
